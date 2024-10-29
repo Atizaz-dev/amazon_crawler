@@ -1,0 +1,22 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Date: Tue, 29 Oct 2024 15:28:01 GMT
+Vary: Content-Type,Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+X-Amz-Rid: SEDKPTY4E2J5WM91Y8W5
+Set-Cookie: session-token=YWCD3Q7z/btOa9TzFeZTBLGr71kfSRrjUesMdY5QR37qO+4bvFNLGZSEEAd4LY1RM/260G4IvPLVjCzq4V7CYqXVOIsJuT8ePRkEpIjE05lbXnpcSR6DZoVuTWFWgskIGtcybDbkVcIocRz0Ej697A69V+SkSviW3fEWblpB0LkWTADEL7TWo+rqEDjr7PV2kw6dlt+tpq5cpCYKcQB5Ip/W6DRGsuS5DGnsnPghfHYtMOtAr8GQ2ntoI8wb7kVwTEoHkz+jiLsqhEXrnCSvrXGH6PY8oNouKeobAEzf02sNPT2jA5xgdgFds2+s/Lt+XaZ3aaFBs47FwoxYffu0qfXx+8ZscWtT; Domain=.amazon.com; Expires=Wed, 29-Oct-2025 15:28:01 GMT; Path=/; Secure
+X-Content-Type-Options: nosniff
+P3P: policyref="https://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Cache-Control: no-cache, no-transform
+X-Xss-Protection: 1;
+Content-Encoding: gzip
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-platform-version
+Accept-Ch-Lifetime: 86400
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+Content-Security-Policy-Report-Only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Cache: Miss from cloudfront
+Via: 1.1 444dde5644fa29b8d8dfac109693e2a2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: VIE50-C2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: YhC_KkUoN17ecEyF9W-uLw8RJlWCAg0jS2Ey-w5pZV4kTJ7Q_sp79w==

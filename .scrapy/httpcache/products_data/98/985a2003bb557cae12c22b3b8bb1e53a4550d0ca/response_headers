@@ -1,0 +1,21 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Date: Tue, 29 Oct 2024 15:30:46 GMT
+Vary: Content-Type,Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+X-Amz-Rid: GZBRPQ7T6C0TEPXZJDFR
+Cache-Control: no-cache, no-transform
+Content-Security-Policy-Report-Only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/
+Accept-Ch-Lifetime: 86400
+P3P: policyref="https://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Content-Encoding: gzip
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-platform-version
+X-Xss-Protection: 1;
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Cache: Miss from cloudfront
+Via: 1.1 444dde5644fa29b8d8dfac109693e2a2.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: VIE50-C2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: baPeTa7Wda6tqu9CqQaWy5_X9VUBri6JF1N7WINEe9TKGx-wYE-ywA==

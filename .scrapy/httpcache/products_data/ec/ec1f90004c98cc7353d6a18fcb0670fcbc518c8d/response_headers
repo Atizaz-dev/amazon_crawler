@@ -1,0 +1,22 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Date: Tue, 29 Oct 2024 15:33:18 GMT
+Vary: Content-Type,Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+X-Amz-Rid: AT4DWQM16CCS219E7NRK
+Set-Cookie: session-token=+WIloeH7Ft7fyMSK3fNGue/6ZO97sdE0HGjSai4Q0y6HLzpmbA4N+Fyi7MnabFMDpsNgB3VjK1sV/jbn0/NZy1bsxkWSYTPb6TGUOpP6tmOD77dW8Oawg9mpkS3xZn3LQDJzGvxKWkK+zEPTejGtEIogfnO2ltaTzaVsvnXejayOZkpgmYL6eKpNR0e/kEYmYKICJX5pGo/tWAaXImG2DR/HFAwbwQslnTkYlGpRdv4w9hg3qnQR67XCKz9vpsHGl2QNtkQXmbsnnN4LlrAoghHPEPsujyYYy6EAi2U4DBWlWdJCTL4A72GzaIy3lF6fiVD9J33b0IdXw90z6oqenL5BUPJ4BiNL; Domain=.amazon.com; Expires=Wed, 29-Oct-2025 15:33:18 GMT; Path=/; Secure
+Cache-Control: no-cache, no-transform
+X-Xss-Protection: 1;
+Content-Security-Policy-Report-Only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/
+Accept-Ch-Lifetime: 86400
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-platform-version
+P3P: policyref="https://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Content-Encoding: gzip
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Cache: Miss from cloudfront
+Via: 1.1 07ba06e632a891feeba3436a80d00ee4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: VIE50-C2
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: CB_JGV0OLvpwh4roD0OwS5pyNWyyvcRuZSG0JqyMAt07glnnMSkFuA==

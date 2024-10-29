@@ -1,0 +1,13 @@
+# Ignore Python compiled files and caches
+*.pyc
+__pycache__/
+# ignore idea files
+.idea/
+
+# Ignore Celery beat schedule files
+celerybeat-schedule.bak
+celerybeat-schedule.dat
+celerybeat-schedule.dir
+
+# Ignore the scraping log
+scraping.log

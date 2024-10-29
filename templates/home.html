@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brands and Products</title>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+    <div class="container my-4">
+        <h1 class="text-center mb-4">Brands and Products</h1>
+
+        <!-- Search Form -->
+        <div class="search-container mb-4">
+            <form method="get" action="" class="form-inline justify-content-center">
+                <input type="text" name="search" placeholder="Search products..." value="{{ search_query }}" class="form-control mr-2" style="width: 300px;">
+                <button type="submit" class="btn btn-primary">Search</button>
+            </form>
+        </div>
+
+        <!-- Display Brands and Products -->
+        <div class="row">
+            {% for brand in brands %}
+                <div class="col-md-6 mb-4">
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">{{ brand.name }}</h5>
+                            <ul class="list-group list-group-flush">
+                                {% for product in brand.products.all %}
+                                    {% if not search_query or product in products %}
+                                        <li class="list-group-item d-flex align-items-center">
+                                            <img src="{{ product.image }}" alt="{{ product.name }}" width="50" class="mr-3">
+                                            <div>
+                                                <strong>{{ product.name }}</strong> <br>
+                                                <small class="text-muted">ASIN: {{ product.asin }}</small>
+                                            </div>
+                                        </li>
+                                    {% endif %}
+                                {% empty %}
+                                    <li class="list-group-item">No products found for this brand.</li>
+                                {% endfor %}
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            {% endfor %}
+        </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

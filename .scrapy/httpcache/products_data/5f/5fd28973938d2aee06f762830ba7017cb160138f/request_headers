@@ -1,0 +1,27 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7
+Accept-Language: en-US,en;q=0.9
+Cache-Control: max-age=0
+Device-Memory: 8
+Downlink: 1.4
+Dpr: 1.25
+Ect: 3g
+Priority: u=0, i
+Rtt: 300
+Sec-Ch-Device-Memory: 8
+Sec-Ch-Dpr: 1.25
+Sec-Ch-Ua: "Chromium";v="128", "Not;A=Brand";v="24", "Google Chrome";v="128"
+Sec-Ch-Ua-Mobile: ?0
+Sec-Ch-Ua-Platform: "Windows"
+Sec-Ch-Ua-Platform-Version: "10.0.0"
+Sec-Ch-Viewport-Width: 1042
+Sec-Fetch-Dest: document
+Sec-Fetch-Mode: navigate
+Sec-Fetch-Site: none
+Sec-Fetch-User: ?1
+Upgrade-Insecure-Requests: 1
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36
+Viewport-Width: 1042
+Referer: https://www.amazon.com/s?k=apple&page=15&crid=2K5HA2CNE4A8S&qid=1730215533&sprefix=step+2%2Caps%2C165&ref=sr_pg_14
+Accept-Encoding: gzip, deflate
+Cookie: session-id=147-5346203-7403762; session-id-time=2082787201l; i18n-prefs=USD; sp-cdn="L5Z9:DE"; ubid-main=135-2440144-9822113; session-token=2dUcb+1eCkyDkzM4R+i1EF9YDNfWQDwhcRRWrtdCT3Prne3CInGAG9BH4siU9rsdPRS0JRj3OPreoKqcSY7Q4KrL9ID0iF0gyS2UvMGRkCnU1Sm3EBmdS6+XJFSGuabGEXrX2PxvgaYsAY5pK7JH4dq8qHgW6YUE1iubVNhSRFjHyzcfu2iHldWpsEeg9omO3GkbB38yG2wbYlyJpBUWbcIAsJmXqYvaIQ2rawFNU3J55+zIqmEdLPrOGLPFiSexTDioajfamkIRS/1sOLkIN383+wxsTPWYviipp5Bhpv+C4iKU1Uc643BhwHCUdnt/nXfM4KRn9+/1ATgZaAA/4hZiYmIoOv2y
+Proxy-Authorization: Basic a3BqdXZxYmU6bTV6bzk1NnA4MTc3

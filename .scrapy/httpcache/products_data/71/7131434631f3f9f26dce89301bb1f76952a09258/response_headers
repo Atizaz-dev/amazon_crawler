@@ -1,0 +1,22 @@
+Content-Type: text/html;charset=UTF-8
+Server: Server
+Date: Tue, 29 Oct 2024 16:39:33 GMT
+Vary: Content-Type,Accept-Encoding,User-Agent
+X-Frame-Options: SAMEORIGIN
+X-Amz-Rid: Q83XTCDGV7VH5WFH7TXG
+Set-Cookie: session-token=INoh7CYlorzjJ/qhUIeb19njo9ZY3B7OvKNphfSVHE/hCtcl4BJ8D26tFPVlVPIdm2LPmN+pW1usZI0PqwY7t6LIcEICHWPMOU74qqDRug1yYVmMH3oBDBy+ubzeUSpeqT3NtmWJUO/QS7BaKH6lwmXoKNbIfaym6YalTYs32PJnhDqu5o4G5OvEs1HGTvZw5c4RjyzTQnoy48ZULPtmFHJJbKc9l6YzmdcFTMbjalmmi+KmUAzlUOea4H8fj3LdQA6PyPHh6F/vGd3n67W5Kfl5ShwftGesFPnKJPSS4qFMbVjgxuSKSnH5CuBUYATASk/aAfoY1RTJXTeOERqG+9inR5Kj0kax; Domain=.amazon.com; Expires=Wed, 29-Oct-2025 16:39:33 GMT; Path=/; Secure
+Content-Security-Policy: upgrade-insecure-requests;report-uri https://metrics.media-amazon.com/
+Cache-Control: no-cache, no-transform
+Content-Encoding: gzip
+P3P: policyref="https://www.amazon.com/w3c/p3p.xml",CP="CAO DSP LAW CUR ADM IVAo IVDo CONo OTPo OUR DELi PUBi OTRi BUS PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA HEA PRE LOC GOV OTC "
+Content-Security-Policy-Report-Only: default-src 'self' blob: https: data: mediastream: 'unsafe-eval' 'unsafe-inline';report-uri https://metrics.media-amazon.com/
+Accept-Ch: ect,rtt,downlink,device-memory,sec-ch-device-memory,viewport-width,sec-ch-viewport-width,dpr,sec-ch-dpr,sec-ch-ua-platform-version
+Accept-Ch-Lifetime: 86400
+X-Xss-Protection: 1;
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=47474747; includeSubDomains; preload
+X-Cache: Miss from cloudfront
+Via: 1.1 d8e97d2c28917e4c41ab79bb1e94b844.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: FRA6-C1
+Alt-Svc: h3=":443"; ma=86400
+X-Amz-Cf-Id: NIxiY3bxHb6uq-NvHQtdIxGH5Qx4bx1aRzxPpPVnhFLr3laEyGpLiA==
