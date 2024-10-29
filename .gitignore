@@ -11,3 +11,4 @@ celerybeat-schedule.dir
 
 # Ignore the scraping log
 scraping.log
+* text=auto eol=lf
